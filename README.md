@@ -119,17 +119,19 @@ A web development project created as part of practical development work.
 
 ## 🌱 Currently Learning
 
-```text
-MERN Stack Development
-        ↓
-MongoDB → Express.js → React.js → Node.js
-        ↓
-REST APIs • Backend Development • Full-Stack Applications
-```
+<div align="center">
 
-Alongside MERN development, I'm exploring **AI/ML concepts** and learning how modern applications can integrate intelligent features.
+| Area | Learning |
+|---|---|
+| 🌐 **Full-Stack Development** | MERN Stack • REST APIs • Backend Development |
+| 🤖 **Artificial Intelligence** | AI/ML Fundamentals • NLP • AI Applications |
+| 🧠 **AI Tools** | AI APIs • AI Frameworks • Developer AI Tools |
+| 💻 **Programming** | Java • Python • JavaScript |
+| 🗄️ **Databases** | MongoDB • MySQL |
 
----
+</div>
+
+> 🚀 Learning by building projects, experimenting with new technologies, and solving practical problems.
 
 ## 📜 Certifications
 
