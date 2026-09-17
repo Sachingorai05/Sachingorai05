@@ -119,13 +119,17 @@ Alongside MERN development, I'm exploring **AI/ML concepts** and learning how mo
 
 ---
 
-## 📊 GitHub Activity
+## 🤝 Connect With Me
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachingorai05\&show_icons=true\&hide_border=true\&rank_icon=github)
+<a href="https://www.linkedin.com/in/sachin-gorai-05sg/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Gorai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachingorai05\&layout=compact\&hide_border=true)
+<a href="https://github.com/Sachingorai05">
+  <img src="https://img.shields.io/badge/GitHub-Sachingorai05-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -138,3 +142,4 @@ Alongside MERN development, I'm exploring **AI/ML concepts** and learning how mo
 **Thanks for visiting my profile!** ⭐
 
 </div>
+
