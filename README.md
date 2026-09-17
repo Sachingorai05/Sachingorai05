@@ -172,9 +172,9 @@ A web development project created as part of practical development work.
 
 <div align="center">
 
-### 💡 *"Learn. Build. Break. Fix. Repeat."*
+### 💡 *Learn • Build • Improve • Repeat*
 
-**Thanks for visiting my profile!** ⭐
+⭐ **Thanks for visiting my profile!**
 
 </div>
 
