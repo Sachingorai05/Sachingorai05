@@ -1,39 +1,96 @@
-# Hi 👋 I'm Sachin Gorai
+# Hi 👋, I'm Sachin Gorai
 
 ### B.Tech Computer Science & Engineering Student
 
-I’m a passionate student developer who enjoys building web applications and learning new technologies. I love working with Java, Python and modern web development while continuously improving my programming skills.
+💻 Passionate about programming, web development and building practical projects.
 
-## 👨‍💻 About Me
+🌱 Currently learning and developing applications using the **MERN Stack** and exploring **Artificial Intelligence**.
 
-* 🎓 B.Tech CSE Student
-* 🌱 Currently learning Software Development & AI
-* 💻 Interested in Web Development and Java Programming
-* 🚀 Building practical projects and sharing them on GitHub
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Programming Languages
 
-`C` `C++` `Java` `Python`
+* C
+* C++
+* Java
+* Python
 
-**Web Development**
+### Web Development
 
-`HTML` `CSS` `JavaScript` `React`
+* HTML
+* CSS
+* JavaScript
+* React
+* Bootstrap
+* **MERN Stack**
 
-**Database & Tools**
+### Database & Tools
 
-`MySQL` `Git` `GitHub` `VS Code`
+* MySQL
+* MongoDB
+* Git
+* GitHub
+* VS Code
 
-## 📂 Featured Projects
+### MERN Technologies
 
-* **Customer Service Chatbot** – Python based chatbot project
-* **Movie Recommendation System** – Recommendation project using Python
-* **Kajal Digital Seva Kendra** – CSC centre website using HTML, CSS & JavaScript
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+
+---
+
+## 🚀 Projects
+
+🔹 **Customer Service Chatbot**
+AI-based chatbot project focused on customer support.
+
+🔹 **Movie Recommendation System**
+A recommendation system project developed using Python.
+
+🔹 **Kajal Digital Seva Kendra**
+A web-based project for a digital service centre.
+
+---
+
+## 📚 Currently Learning
+
+* MERN Stack Development
+* Full-Stack Web Development
+* Artificial Intelligence
+* Backend Development
+* REST APIs
+
+---
+
+## 📜 Certifications
+
+* NPTEL – Java Programming
+* Internshala – Full Stack Development
+* E&ICT Academy – IIT Roorkee
+
+---
+
+## 🎯 Interests
+
+* Software Development
+* MERN Stack Development
+* Web Development
+* Artificial Intelligence
+* Problem Solving
+* Learning New Technologies
+
+---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Sachin Gorai](https://www.linkedin.com/in/sachin-gorai-05sg/)
-- 🐙 GitHub: [Sachingorai05](https://github.com/Sachingorai05)
+💼 **LinkedIn:** [Sachin Gorai](https://www.linkedin.com/in/sachin-gorai-05sg/)
+
+🐙 **GitHub:** [Sachingorai05](https://github.com/Sachingorai05)
+
+---
 
 ⭐ Thanks for visiting my profile!
