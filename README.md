@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sachin Gorai
 
-### `B.Tech CSE Student` • `Full-Stack Developer` • `AI/ML Learner`
+### `B.Tech CSE Student` • `Aspiring Full-Stack Developer` • `AI/ML Learner`
 
 **Learning • Building • Exploring • Improving**
 
