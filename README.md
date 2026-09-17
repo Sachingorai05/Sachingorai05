@@ -23,16 +23,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student** passionate about software development and building practical applications.
+I'm a **Computer Science & Engineering student** passionate about software development, full-stack web applications, and emerging AI technologies.
 
-* 🎓 Pursuing **B.Tech in Computer Science & Engineering**
-* 💻 Interested in **Full-Stack & Software Development**
-* 🌱 Currently learning and developing with the **MERN Stack**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🧩 Enjoy solving problems and turning ideas into working projects
-* 🚀 Continuously learning new technologies and improving my development skills
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- 🌐 Currently learning and developing with the **MERN Stack**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🧠 Learning modern **AI tools, frameworks & APIs**
+- 💻 Interested in building **AI-powered and full-stack applications**
+- 🛠️ Improving my skills through **hands-on projects**
+- 📚 Continuously learning new technologies and development practices
 
----
+### 🔭 Current Focus
+
+`MERN Development` → `AI/ML` → `AI Tools & APIs` → `Full-Stack AI Applications`
 
 ## 🧰 Technologies & Tools
 
