@@ -133,24 +133,24 @@ A web development project created as part of practical development work.
 
 > 🚀 Learning by building projects, experimenting with new technologies, and solving practical problems.
 
-## 📜 Certifications
+## 📜 Certifications & Learning
 
-| Certification              | Platform                   |
-| -------------------------- | -------------------------- |
-| ☕ Java Programming         | NPTEL                      |
-| 🌐 Full Stack Development  | Internshala                |
-| 🎓 Technical Certification | E&ICT Academy, IIT Roorkee |
+| 📚 Certification | 🏛️ Issuing Platform |
+|---|---|
+| ☕ **Java Programming** | NPTEL |
+| 🌐 **Full Stack Development** | Internshala |
+| 🎓 **Technical Certification** | E&ICT Academy, IIT Roorkee |
 
----
+> 📖 Continuously expanding my knowledge through online courses, certifications, and hands-on development.
 
-## 🎯 2026 Goals
+## 🎯 Goals
 
-* 🚀 Become proficient in **MERN Stack Development**
-* 🧑‍💻 Build and deploy full-stack applications
-* 🤖 Strengthen my **AI/ML fundamentals**
-* 📚 Improve Data Structures & Algorithms
-* 🌐 Build a strong developer portfolio
-* 🤝 Contribute to meaningful open-source projects
+- 🚀 Build and deploy meaningful **full-stack applications**
+- 🤖 Explore and integrate **AI into real-world applications**
+- 📚 Strengthen **Data Structures & Algorithms**
+- 🌐 Improve my **MERN Stack development** skills
+- 🤝 Contribute to **open-source projects**
+- 🧠 Keep learning and experimenting with emerging technologies
 
 ---
 
