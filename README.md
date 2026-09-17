@@ -2,12 +2,20 @@
 
 # 👋 Hi, I'm Sachin Gorai
 
-### `B.Tech CSE Student` • `Developer` • `Tech Enthusiast`
+### `B.Tech CSE Student` • ` Full-Stack Developer` • `AI/ML Learner`
 
-**Building • Learning • Experimenting • Improving**
+**Learning • Building • Exploring • Improving**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sachin-gorai-05sg/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sachingorai05-black?style=for-the-badge\&logo=github)](https://github.com/Sachingorai05)
+🤖 Exploring **Artificial Intelligence & Machine Learning**
+
+🧠 Learning **AI Tools & Modern AI Technologies**
+
+🌐 Developing with the **MERN Stack**
+
+💻 Building **Web & AI-powered Applications**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-gorai-05sg/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sachingorai05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachingorai05)
 
 </div>
 
