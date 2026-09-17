@@ -81,27 +81,41 @@ I'm a **Computer Science & Engineering student** who enjoys turning ideas into p
 
 ### 🤖 Customer Service Chatbot
 
-> An AI-based chatbot designed to assist users with customer-service related queries.
+An AI-based chatbot project designed to handle customer queries and provide automated assistance.
 
-**Tech:** `Python` `NLP` `AI`
+**Tech Stack:** `Python` `NLP` `AI`
+
+🔗 [View Repository](https://github.com/Sachingorai05/CUSTOMER-SERVICE-CHATBOT)
 
 ---
 
 ### 🎬 Movie Recommendation System
 
-> A recommendation-based application that suggests movies based on user preferences and available movie data.
+A recommendation system project that suggests movies based on available data and user preferences.
 
-**Tech:** `Python` `Machine Learning`
+**Tech Stack:** `Python` `Machine Learning`
+
+🔗 [View Repository](https://github.com/Sachingorai05/Movie-Recommendation-System)
 
 ---
 
 ### 🏪 Kajal Digital Seva Kendra
 
-> A web-based platform designed for a digital service centre, providing an organized interface for online services.
+A web-based platform created for a digital service centre, providing a simple and organized interface for online services.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 [View Repository](https://github.com/Sachingorai05/kajal-digital-seva-kendra)
 
 ---
+
+### 🌐 GWP Jamshedpur
+
+A web development project created as part of practical development work.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 [View Repository](https://github.com/Sachingorai05/GWP-JAMSHEDPUR)
 
 ## 🌱 Currently Learning
 
