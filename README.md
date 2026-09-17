@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sachin Gorai
 
-### `B.Tech CSE Student` • ` Full-Stack Developer` • `AI/ML Learner`
+### `B.Tech CSE Student` • `Full-Stack Developer` • `AI/ML Learner`
 
 **Learning • Building • Exploring • Improving**
 
@@ -14,8 +14,8 @@
 
 💻 Building **Web & AI-powered Applications**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-gorai-05sg/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sachingorai05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachingorai05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sachin-gorai-05sg/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sachingorai05-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sachingorai05)
 
 </div>
 
@@ -23,15 +23,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student** passionate about software development, full-stack web applications, and emerging AI technologies.
+I'm a **Computer Science & Engineering student** who enjoys turning ideas into practical software and learning through hands-on development.
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
-- 🌐 Currently learning and developing with the **MERN Stack**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🧠 Learning modern **AI tools, frameworks & APIs**
-- 💻 Interested in building **AI-powered and full-stack applications**
-- 🛠️ Improving my skills through **hands-on projects**
-- 📚 Continuously learning new technologies and development practices
+* 🎓 Building my foundation in **Computer Science & Software Engineering**
+* 🧩 I enjoy solving problems and experimenting with new technologies
+* 🚀 Focused on creating **practical, user-oriented projects**
+* 🔍 Interested in understanding how technologies work and applying them to real-world problems
+* 📚 I believe in **continuous learning through building and experimentation**
+* 🤝 Open to **collaboration, projects, and learning opportunities**
+
+### 🎯 What I Enjoy
+
+`Problem Solving` • `Building Projects` • `Exploring Technology` • `Learning by Doing`
+
 
 ### 🔭 Current Focus
 
