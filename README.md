@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Sachin Gorai
 
-<!--
-**Sachingorai05/Sachingorai05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+I’m a passionate student developer who enjoys building web applications and learning new technologies. I love working with Java, Python and modern web development while continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🎓 B.Tech CSE Student
+* 🌱 Currently learning Software Development & AI
+* 💻 Interested in Web Development and Java Programming
+* 🚀 Building practical projects and sharing them on GitHub
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`C` `C++` `Java` `Python`
+
+**Web Development**
+
+`HTML` `CSS` `JavaScript` `React`
+
+**Database & Tools**
+
+`MySQL` `Git` `GitHub` `VS Code`
+
+## 📂 Featured Projects
+
+* **Customer Service Chatbot** – Python based chatbot project
+* **Movie Recommendation System** – Recommendation project using Python
+* **Kajal Digital Seva Kendra** – CSC centre website using HTML, CSS & JavaScript
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Sachin Gorai](https://www.linkedin.com/in/sachin-gorai-05sg/)
+- 🐙 GitHub: [Sachingorai05](https://github.com/Sachingorai05)
+
+⭐ Thanks for visiting my profile!
