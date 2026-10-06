@@ -157,24 +157,7 @@ Data Structures & Algorithms
       ↓
 Software Development
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://sachingorai.runs-at.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-6D7CFF?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Sachingorai05">
-    <img src="https://img.shields.io/badge/GitHub-Sachingorai05-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sachin-gorai-05sg">
-    <img src="https://img.shields.io/badge/LinkedIn-Sachin_Gorai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sachingorai0107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <b>🌐 Portfolio</b> · 
   <b>💻 GitHub</b> · 
   <b>🔗 LinkedIn</b> · 
