@@ -158,8 +158,4 @@ Data Structures & Algorithms
 Software Development
 
 
-  <b>🌐 Portfolio</b> · 
-  <b>💻 GitHub</b> · 
-  <b>🔗 LinkedIn</b> · 
-  <b>📧 Email</b>
-</p>
+
