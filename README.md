@@ -1,49 +1,43 @@
-<div align="center">
-
 # 👋 Hi, I'm Sachin Gorai
 
-### `B.Tech CSE Student` • `Aspiring Full-Stack Developer` • `AI/ML Learner`
+### AI & Full-Stack Developer | CSE Student
 
-**Learning • Building • Exploring • Improving**
+I’m a Computer Science & Engineering student passionate about building
+AI-powered applications, modern web experiences, and practical software
+solutions.
 
-🤖 Exploring **Artificial Intelligence & Machine Learning**
+I enjoy working with **React, JavaScript, Python, Java, RAG, LangChain,
+NLP, databases, and full-stack technologies**.
 
-🧠 Learning **AI Tools & Modern AI Technologies**
-
-🌐 Developing with the **MERN Stack**
-
-💻 Building **Web & AI-powered Applications**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sachin-gorai-05sg/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sachingorai05-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sachingorai05)
-
-</div>
+<p align="center">
+  <a href="https://sachingorai.runs-at.dev">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-6D7CFF?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sachin-gorai-05sg">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sachingorai0107@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student** who enjoys turning ideas into practical software and learning through hands-on development.
+- 🎓 B.Tech student in **Computer Science & Engineering**
+- 🤖 Interested in **AI, Generative AI, RAG & Intelligent Systems**
+- 💻 Building modern **full-stack web applications**
+- 🌱 Currently exploring advanced AI and software development
+- 🚀 Interested in building practical and real-world applications
+- 🧠 Continuously improving my development and technical skills
+- 🌐 Portfolio: **[sachingorai.runs-at.dev](https://sachingorai.runs-at.dev)**
 
-* 🎓 Building my foundation in **Computer Science & Software Engineering**
-* 🧩 I enjoy solving problems and experimenting with new technologies
-* 🚀 Focused on creating **practical, user-oriented projects**
-* 🔍 Interested in understanding how technologies work and applying them to real-world problems
-* 📚 I believe in **continuous learning through building and experimentation**
-* 🤝 Open to **collaboration, projects, and learning opportunities**
-
-### 🎯 What I Enjoy
-
-`Problem Solving` • `Building Projects` • `Exploring Technology` • `Learning by Doing`
-
-
-### 🔭 Current Focus
-
-`MERN Development` → `AI/ML` → `AI Tools & APIs` → `Full-Stack AI Applications`
+---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -51,130 +45,114 @@ I'm a **Computer Science & Engineering student** who enjoys turning ideas into p
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frontend Development
+### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend & Database
+### 🤖 AI / Machine Learning
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6D7CFF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
+
+### 🗄️ Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI / ML & Tools
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 🔧 Development Tools
+### 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 🚀 Featured Projects
 
-### 🤖 Customer Service Chatbot
+### 🤖 AI-Powered College Knowledge Assistant
 
-An AI-based chatbot project designed to handle customer queries and provide automated assistance.
+An AI-powered college knowledge assistant based on
+**Retrieval-Augmented Generation (RAG)** that can retrieve information
+from college-specific documents and provide relevant answers.
 
-**Tech Stack:** `Python` `NLP` `AI`
+**Tech Stack:**
 
-🔗 [View Repository](https://github.com/Sachingorai05/CUSTOMER-SERVICE-CHATBOT)
+`Python` `RAG` `LangChain` `ChromaDB` `Sentence Transformers` `OCR` `React`
 
----
-
-### 🎬 Movie Recommendation System
-
-A recommendation system project that suggests movies based on available data and user preferences.
-
-**Tech Stack:** `Python` `Machine Learning`
-
-🔗 [View Repository](https://github.com/Sachingorai05/Movie-Recommendation-System)
+🔗 **[View Project](https://github.com/Sachingorai05/AI-College-Knowledge-Assistant-RAG)**
 
 ---
 
-### 🏪 Kajal Digital Seva Kendra
+### 💬 AI Customer Service Chatbot
 
-A web-based platform created for a digital service centre, providing a simple and organized interface for online services.
+An AI-powered customer service chatbot designed to provide automated
+responses and assist users with common customer queries.
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+**Tech Stack:**
 
-🔗 [View Repository](https://github.com/Sachingorai05/kajal-digital-seva-kendra)
+`Python` `NLP` `AI` `Chatbot`
+
+🔗 **[View Project](https://github.com/Sachingorai05/AI-Customer-Service-Chatbot)**
 
 ---
 
-### 🌐 GWP Jamshedpur
+### 🌐 Full-Stack Web Application
 
-A web development project created as part of practical development work.
+A modern full-stack web application focused on creating a responsive,
+interactive, and user-friendly experience.
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+**Tech Stack:**
 
-🔗 [View Repository](https://github.com/Sachingorai05/GWP-JAMSHEDPUR)
+`React` `JavaScript` `HTML` `CSS` `Backend` `Database`
+
+---
+
+## 🎓 Education
+
+### B.Tech — Computer Science & Engineering
+
+**R.V.S. College of Engineering & Technology, Jamshedpur**
+
+**CGPA:** 7.01 / 10
+
+### Diploma — Computer Science & Engineering
+
+**Madhupur Polytechnic**
+
+**Percentage:** 75.20%
+
+---
+
+## 📜 Certifications
+
+- 🎓 **NPTEL** — Programming in Java
+- 💼 **Internshala** — Internship & Job Preparation
+- ☕ **Briztech** — Java Full Stack
+- 🌐 **Internshala** — Web Development
+- 🎨 **LetsUpgrade** — HTML & CSS Zero to Hero
+- ⚡ **LetsUpgrade** — JavaScript Bootcamp
+- 🤖 **IBM SkillsBuild** — RAG with LangChain
+- 🗄️ **Testbook** — Oracle SQL
+- 🌐 **Testbook** — HTML & CSS Web Development
+- 🤖 **Codec Technologies** — AI Training
+- 💼 **Codec Technologies** — AI Internship
+
+---
 
 ## 🌱 Currently Learning
 
-<div align="center">
-
-| Area | Learning |
-|---|---|
-| 🌐 **Full-Stack Development** | MERN Stack • REST APIs • Backend Development |
-| 🤖 **Artificial Intelligence** | AI/ML Fundamentals • NLP • AI Applications |
-| 🧠 **AI Tools** | AI APIs • AI Frameworks • Developer AI Tools |
-| 💻 **Programming** | Java • Python • JavaScript |
-| 🗄️ **Databases** | MongoDB • MySQL |
-
-</div>
-
-> 🚀 Learning by building projects, experimenting with new technologies, and solving practical problems.
-
-## 📜 Certifications & Learning
-
-| 📚 Certification | 🏛️ Issuing Platform |
-|---|---|
-| ☕ **Java Programming** | NPTEL |
-| 🌐 **Full Stack Development** | Internshala |
-| 🎓 **Technical Certification** | E&ICT Academy, IIT Roorkee |
-
-> 📖 Continuously expanding my knowledge through online courses, certifications, and hands-on development.
-
-## 🎯 Goals
-
-- 🚀 Build and deploy meaningful **full-stack applications**
-- 🤖 Explore and integrate **AI into real-world applications**
-- 📚 Strengthen **Data Structures & Algorithms**
-- 🌐 Improve my **MERN Stack development** skills
-- 🤝 Contribute to **open-source projects**
-- 🧠 Keep learning and experimenting with emerging technologies
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sachin-gorai-05sg/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Gorai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Sachingorai05">
-  <img src="https://img.shields.io/badge/GitHub-Sachingorai05-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *Learn • Build • Improve • Repeat*
-
-⭐ **Thanks for visiting my profile!**
-
-</div>
-
+```text
+Advanced React
+      ↓
+Full-Stack Development
+      ↓
+AI / Generative AI
+      ↓
+RAG & LLM Applications
+      ↓
+Data Structures & Algorithms
+      ↓
+Software Development
